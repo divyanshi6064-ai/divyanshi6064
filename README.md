@@ -10,7 +10,7 @@
 - Learn new technologies
 
 ## Current Focus
-- Learning Python basics
+- Learning Python 
 - Building beginner projects
 
 ## Contact
