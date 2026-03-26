@@ -7,4 +7,11 @@
 ## Goals
 - Improve coding skills  
 - Build projects  
-- Learn new technologies  
+- Learn new technologies
+
+## Current Focus
+- Learning Python basics
+- Building beginner projects
+
+## Contact
+📧 Email: divyanshi6064@gmail.com
